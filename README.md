@@ -1,3 +1,3 @@
 # HTML-CSS-Projects
 
-Project created using HTML & CSS. 
+Projects created using HTML & CSS. 
