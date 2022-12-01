@@ -1,3 +1,3 @@
 # HTML-CSS-Projects
 
-Projects created using HTML & CSS. 
+This repository contains HTML/CSS Projects I learned from [freecodecamp.org] (https://www.freecodecamp.org/learn/2022/responsive-web-design/)
